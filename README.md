@@ -1,6 +1,6 @@
 # 🎸 GuitarLA - TS
 
-![Profile Image](public\img\GuitarLA-Mockup.png)
+![Profile Image](img\GuitarLA-Mockup.png)
 
 ## 📖 Project Description
 GuitarLA - TS is an ecommerce platform for guitars that includes a shopping cart feature. Users can browse through a selection of guitars, add items to their cart, and manage quantities and prices within the cart.
